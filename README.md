@@ -100,23 +100,41 @@ Course Code:  BSEM101
 Course Title:  Bsc. in Software Engineering and Management
 
 -----------------------------
+
 Student ID:  905007623
+
 Student Name:  Mohamed LA Kamara
+
 Student Age(yrs):  22
+
 Course Code:  BBIT101
+
 Course Title:  Bsc. in Business Information Technology
+
 -----------------------------
+
 Student ID:  905005667
+
 Student Name:  Abu Kamara
+
 Student Age(yrs):  25
+
 Course Code:  BICT101
+
 Course Title:  Bsc. in Information and Communication Technology
+
 -----------------------------
+
 Student ID:  905004523
+
 Student Name:  Alpha Seasay
+
 Student Age(yrs):  24
+
 Course Code:  BBIT101
+
 Course Title:  Bsc. in Business Information Technology
+
 -----------------------------
 Total Registered Students:  5
 
