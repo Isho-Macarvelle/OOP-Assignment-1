@@ -77,17 +77,28 @@ This method returns the total number of Student objects created.
 ## 7. Sample Output
 
 REGISTRATION MANAGEMENT SYSTEM
+
 Student ID:  905004568
+
 Student Name:  Barba M Dumbuya
+
 Student Age(yrs):  20
+
 Course Code:  BICT101
+
 Course Title:  Bsc. in Information and Communication Technology
+
 -----------------------------
 Student ID:  905006090
+
 Student Name:  Alusine Kamara
+
 Student Age(yrs):  25
+
 Course Code:  BSEM101
+
 Course Title:  Bsc. in Software Engineering and Management
+
 -----------------------------
 Student ID:  905007623
 Student Name:  Mohamed LA Kamara
