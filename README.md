@@ -76,7 +76,7 @@ This method returns the total number of Student objects created.
 
 ## 7. Sample Output
 
-REGISTRATION MANAGEMENT SYSTEM
+### REGISTRATION MANAGEMENT SYSTEM
 
 Student ID:  905004568
 
