@@ -1,42 +1,40 @@
 # Student Learning Portal
-
 ## 1. Project Overview
 
-The Student Learning Portal is a Python-based educational application developed using Object-Oriented Programming (OOP) concepts.
+The Student Learning Portal is an educational application built in Python, utilizing Object-Oriented Programming (OOP) principles.
 
-The system demonstrates how classes, objects, methods, and Python data structures can be used to manage student and course information.
-
-The project was developed for the OOP1 assignment under the Education domain.
+This system illustrates the use of classes, objects, methods, and Python data structures to handle student and course data.
+The project was created as part of the OOP1 assignment within the Education domain.
 
 ## 2. Problem Statement
 
-Educational institutions need simple ways to organize student and course information.
+Educational institutions require straightforward methods to manage student and course data.
 
-This project provides a simple Python-based solution that allows student objects to be created, associated with course objects, stored in a list, and displayed using a loop.
+This project offers an easy Python-based approach that enables the creation of student objects, links them to course objects, stores them in a list, and displays them through a loop.
 
 ## 3. Objectives
 
-The main objectives of the project are:
+The primary goals of the project are:
 
-- To demonstrate Object-Oriented Programming concepts.
-- To create and use classes and objects.
-- To demonstrate interaction between Student and Course objects.
-- To use a Python list to store multiple student objects.
-- To demonstrate instance and class methods.
-- To apply Digital Public Goods (DPG) principles.
+- To illustrate Object-Oriented Programming principles.
+- To design and utilize classes and objects.
+- To show the interaction between Student and Course objects.
+- To employ a Python list for storing multiple student objects.
+- To demonstrate both instance and class methods.
+- To implement Digital Public Goods (DPG) principles.
 
 ## 4. OOP Concepts Used
 
 ### Course Class
 
-The Course class stores course information such as:
+The Course class stores courses information such as:
 
 - Course code
 - Course title
 
 ### Student Class
 
-The Student class stores:
+The Student class stores students information:
 
 - Student ID
 - Student name
@@ -78,6 +76,7 @@ This method returns the total number of Student objects created.
 
 ## 7. Sample Output
 
+REGISTRATION MANAGEMENT SYSTEM
 Student ID:  905004568
 Student Name:  Barba M Dumbuya
 Student Age(yrs):  20
@@ -130,20 +129,20 @@ The program separates Student and Course responsibilities into different classes
 
 ## 9. How to Run the Program
 
-1. Install Python.
+1. Set up Python on your system.
 2. Download or clone the project from GitHub.
-3. Open the project folder in Visual Studio Code.
-4. Open the terminal.
-5. Run:
+3. Launch Visual Studio Code and open the project directory.
+4. Access the terminal.
+5. Execute:
 
 python main.py
 
 ## 10. Future Improvements
 
-Future versions could include:
+Future versions might include:
 
 - Searching for students.
-- Updating student information.
-- Removing student records.
-- Adding more courses.
-- Adding a simple user interface.
+- Updating student details.
+- Deleting student records.
+- Adding additional courses.
+- Creating a basic user interface.
